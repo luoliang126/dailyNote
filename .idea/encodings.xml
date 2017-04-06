@@ -2,7 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/node_modules/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules/public/html/jsContent/jsContentText/inside-object/inside-object.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules/public/html/jsContent/jsContentText/inside-object/inside-object.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/node_modules/public/html/jsContent/jsContentTitle/jsContentTitle.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/node_modules/public/html/tipsContent/tipsContentText/time/time.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules/public/js/main.js" charset="UTF-8" />
   </component>
 </project>
