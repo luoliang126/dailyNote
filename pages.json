@@ -1,0 +1,59 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/standby/standby",
+			"style": {
+				"navigationBarTitleText": "待办"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"globalStyle": {
+		"pageOrientation": "portrait",
+		"navigationBarTitleText": "Hello uniapp",
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#F8F8F8",
+		"backgroundColorTop": "#F4F5F6",
+		"backgroundColorBottom": "#F4F5F6"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list":[{
+			"pagePath":"pages/index/index",
+			"text":"首页",
+			"iconPath":"static/home.png",
+			"selectedIconPath":"static/homeSelected.png"
+		},{
+			"pagePath":"pages/standby/standby",
+			"text":"待办",
+			"iconPath":"static/standby.png",
+			"selectedIconPath":"static/standbySelected.png"
+		},{
+			"pagePath":"pages/my/my",
+			"text":"我的",
+			"iconPath":"static/my.png",
+			"selectedIconPath":"static/mySelected.png"
+		}]
+	}
+}
